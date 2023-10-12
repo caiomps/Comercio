@@ -1,0 +1,9 @@
+celular,142,Eletronico,1.0,1.0
+asda,13444,Periferico,132.4,14.555555
+tablet,444,Eletronico,52.4,52.789
+celular,123,Eletronico,515.0,800.0
+pc,412,Periferico,12.0,12.0
+mosue,555,Periferico,12.0,31.0
+mouse,1111,Periferico,12.0,12.0
+mouse,44444,Periferico,12.0,12.0
+afs,433,Eletronico,123.0,123.0
